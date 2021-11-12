@@ -1,0 +1,6 @@
+
+ksquid:S22596"FA "NullPointerException" could be thrown; "adaptTo()" can return null.(άÒνHΗ-RMAJORZBUG
+squid:S00115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ζΖΏιώÿÿÿÿHΘ-RCRITICALZ
+CODE_SMELL
+fsquid:S1068/"4Remove this unused "serialVersionUid" private field.(ζΖΏιώÿÿÿÿHΙ-RMAJORZ
+CODE_SMELL

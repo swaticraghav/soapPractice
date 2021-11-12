@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TaskServiceImpl.java&apos; to &apos;aemandsoap.core/src/main/java/soap.core&apos;&#x0D;&#x0A;- Original project: &apos;cxf-dosgi-samples-soap-impl&apos;&#x0D;&#x0A;- Destination element: &apos;aemandsoap.core/src/main/java/soap.core&apos;&#x0D;&#x0A;- Original element: &apos;org.apache.cxf.dosgi.samples.soap.impl.TaskServiceImpl.java&apos;" description="Copy compilation unit" destination="=aemandsoap.core/src\/main\/java&lt;soap.core" element1="/src\/main\/java&lt;org.apache.cxf.dosgi.samples.soap.impl{TaskServiceImpl.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1574142996826" units="1" version="1.0"/>
+</session>

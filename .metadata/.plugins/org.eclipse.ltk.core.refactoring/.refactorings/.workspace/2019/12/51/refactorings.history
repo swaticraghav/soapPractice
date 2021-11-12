@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 18 resources" deleteContents="false" description="Delete 18 resources" element1="/cxf-dosgi-itests-multibundle" element10="/cxf-dosgi-samples-repository" element11="/cxf-dosgi-samples-rest-api" element12="/cxf-dosgi-samples-rest-client" element13="/cxf-dosgi-samples-rest-impl" element14="/cxf-dosgi-samples-rest-impl-jackson" element15="/cxf-dosgi-samples-rest-parent" element16="/cxf-dosgi-samples-security-filter" element17="/cxf-dosgi-samples-soap-client" element18="/cxf-dosgi-samples-soap-impl" element2="/cxf-dosgi-main" element3="/cxf-dosgi-multibundle-distribution" element4="/cxf-dosgi-parent" element5="/cxf-dosgi-provider-rs" element6="/cxf-dosgi-provider-ws" element7="/cxf-dosgi-repository" element8="/cxf-dosgi-samples" element9="/cxf-dosgi-samples-parent" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="18" stamp="1576913090045"/>
+</session>
